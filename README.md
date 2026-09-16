@@ -221,65 +221,39 @@ AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-b
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/discover-planning.png" height="100" alt="Discovery &amp; Planning" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/discover-planning.png" height="80" alt="Discovery &amp; Audit" />
       </p>
-      <h3 align="center">Discovery &amp; Planning</h3>
-      <p align="center">We begin with a deep dive to understand your workloads, risks, and goals (performance, cost, compliance).
-        Through workshops, assessments, and architecture reviews, we map out where automation, scaling, and security gaps exist.</p>
-      <p align="center">Use AI to review infrastructure and summarize risks during discovery and planning.</p>
-      <p align="center">For AI workloads, match GPU hardware and pricing to training bursts and steady inference needs.</p>
+      <h4 align="center">Discovery &amp; Audit</h4>
+      <p align="center">Assess workloads, architecture, cost, security, reliability, and AI/GPU needs.</p>
+      <p align="center">Use AI to summarize findings and risks for engineer review.</p>
     </td>
-    <td width="33%">
+    <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/iac.png" height="100" alt="Infrastructure as Code" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/iac.png" height="80" alt="Infrastructure &amp; Platform Delivery" />
       </p>
-      <h3 align="center">Infrastructure as Code</h3>
-      <p align="center">We build using Terraform modules + cloud-native tools. Everything’s codified, versioned, and reusable.
-        This ensures you’re not just getting one-off setups, but components you can reliably iterate on.</p>
-      <p align="center">Use AI to draft and review Terraform code, with engineers validating every proposed change.</p>
-      <p align="center">Configure GPU workloads on Kubernetes with scheduling, autoscaling, and recovery built into the platform.</p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/ci-cd-gitops.png" height="100" alt="CI/CD &amp; GitOps" />
-      </p>
-      <h3 align="center">CI/CD &amp; GitOps</h3>
-      <p align="center">Fast, safe deployments stem from robust pipelines.
-        We set up CI/CD via GitHub Actions / Azure DevOps / GitLab, enforce code review, test automation, and policy-as-code.
-        Using GitOps makes infrastructure changes and app deployments auditable & reversible.</p>
-      <p align="center">Use AI to diagnose failed pipelines and prepare fixes for engineer review.</p>
+      <h4 align="center">Infrastructure &amp; Platform Delivery</h4>
+      <p align="center">Build Terraform, Kubernetes, CI/CD, scheduling, and autoscaling workflows.</p>
+      <p align="center">Use AI to draft code and investigate pipeline failures for engineer review.</p>
     </td>
   </tr>
   <tr>
-    <td width="33%">
+    <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="100" alt="Security by Design" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="80" alt="Security &amp; Compliance Validation" />
       </p>
-      <h3 align="center">Security by Design</h3>
-      <p align="center">Security isn’t an afterthought. Zero-trust thinking, guardrails, least privilege, policy-as-code,
-        and secrets management are embedded from day one. We align with cloud-provider and regulatory best practices.</p>
-      <p align="center">Use AI to review configurations and flag potential security risks for investigation.</p>
+      <h4 align="center">Security &amp; Compliance Validation</h4>
+      <p align="center">Review access, secrets, security checks, and compliance evidence.</p>
+      <p align="center">Use AI to flag configuration risks for engineers to investigate.</p>
     </td>
-    <td width="33%">
+    <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/continues-monitoring.png" height="100" alt="Continuous Monitoring &amp; Improvement" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/continues-monitoring.png" height="80" alt="Ongoing Support &amp; Optimization" />
       </p>
-      <h3 align="center">Continuous Monitoring &amp; Improvement</h3>
-      <p align="center">Once in production, the work doesn’t stop. We put in observability (metrics, logging, tracing),
-        dig into costs, monitor SLAs/SLOs, and run performance reviews. If something is off, we iterate.</p>
-      <p align="center">Use AI to triage alerts, analyze cluster health, and identify cost optimization opportunities.</p>
-      <p align="center">Review GPU utilization and idle capacity, then tune scheduling and scaling to keep spending aligned with demand.</p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/collab.png" height="100" alt="Collaboration &amp; Shared Ownership" />
-      </p>
-      <h3 align="center">Collaboration &amp; Shared Ownership</h3>
-      <p align="center">We’re not a black box — we deeply collaborate. Regular demos, dashboards, shared ownership,
-        and open communication lead to trust, better solutions, and faster learning.</p>
-      <p align="center">Use AI to summarize technical findings and prepare clear updates for shared team reviews.</p>
+      <h4 align="center">Ongoing Support &amp; Optimization</h4>
+      <p align="center">Monitor health, recovery readiness, cloud spend, and GPU utilization with 24×7 support.</p>
+      <p align="center">Use AI to triage alerts and surface optimization opportunities for review.</p>
     </td>
   </tr>
 </table>

@@ -233,37 +233,37 @@ AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-b
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/discover-planning.png" height="100" alt="Discovery &amp; Audit" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/discover-planning.png" height="80" alt="Discovery &amp; Audit" />
       </p>
-      <h3 align="center">Discovery &amp; Audit</h3>
-      <p align="center">Review workloads, architecture, cost, security, and reliability to agree on priorities. For AI workloads, assess training and inference needs before choosing GPU capacity.</p>
-      <p align="center">Use AI to summarize infrastructure findings and potential risks for engineer review.</p>
+      <h4 align="center">Discovery &amp; Audit</h4>
+      <p align="center">Assess workloads, architecture, cost, security, reliability, and AI/GPU needs.</p>
+      <p align="center">Use AI to summarize findings and risks for engineer review.</p>
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/iac.png" height="100" alt="Infrastructure &amp; Platform Delivery" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/iac.png" height="80" alt="Infrastructure &amp; Platform Delivery" />
       </p>
-      <h3 align="center">Infrastructure &amp; Platform Delivery</h3>
-      <p align="center">Build reusable Terraform infrastructure, Kubernetes platforms, and CI/CD workflows. Configure scheduling and autoscaling around application and GPU workload demand.</p>
-      <p align="center">Use AI to draft infrastructure code and investigate pipeline failures, with engineers reviewing and testing proposed changes.</p>
+      <h4 align="center">Infrastructure &amp; Platform Delivery</h4>
+      <p align="center">Build Terraform, Kubernetes, CI/CD, scheduling, and autoscaling workflows.</p>
+      <p align="center">Use AI to draft code and investigate pipeline failures for engineer review.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="100" alt="Security &amp; Compliance Validation" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="80" alt="Security &amp; Compliance Validation" />
       </p>
-      <h3 align="center">Security &amp; Compliance Validation</h3>
-      <p align="center">Review access controls, secrets, security checks, and compliance evidence. Address identified gaps through the agreed change process.</p>
-      <p align="center">Use AI to flag potential configuration risks for engineers to investigate and validate.</p>
+      <h4 align="center">Security &amp; Compliance Validation</h4>
+      <p align="center">Review access, secrets, security checks, and compliance evidence.</p>
+      <p align="center">Use AI to flag configuration risks for engineers to investigate.</p>
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/continues-monitoring.png" height="100" alt="Ongoing Support &amp; Optimization" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/continues-monitoring.png" height="80" alt="Ongoing Support &amp; Optimization" />
       </p>
-      <h3 align="center">Ongoing Support &amp; Optimization</h3>
-      <p align="center">Provide 24×7 support, monitor platform health, and review recovery readiness and cloud spending. Share findings and priorities with your team, including GPU utilization improvements.</p>
-      <p align="center">Use AI to triage alerts, summarize incidents, and surface cost optimization opportunities for engineer review.</p>
+      <h4 align="center">Ongoing Support &amp; Optimization</h4>
+      <p align="center">Monitor health, recovery readiness, cloud spend, and GPU utilization with 24×7 support.</p>
+      <p align="center">Use AI to triage alerts and surface optimization opportunities for review.</p>
     </td>
   </tr>
 </table>
