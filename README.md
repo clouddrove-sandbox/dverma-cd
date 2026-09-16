@@ -38,184 +38,64 @@ We build and maintain reusable infrastructure modules and DevOps tools, includin
 
 ## 🚀 Our Services
 
-CloudDrove’s services cover the full platform lifecycle: build the foundation, automate delivery, operate reliably, and strengthen security. AI supports delivery across these areas, with engineers accountable for the results.
-
-### Cloud & Infrastructure
-
-Build, review, and optimize the foundation behind your applications.
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-migration.png" height="160" alt="Cloud Migration" />
-      </p>
-      <h4 align="center">Cloud Migration</h4>
-      <p align="center">Plan and execute cloud migrations with performance, security, and minimal disruption in mind.</p>
-      <p align="center"><a href="https://clouddrove.com/cloud-migration">Explore Cloud Migration</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/iac.png" height="160" alt="Terraform &amp; IaC" />
-      </p>
-      <h4 align="center">Terraform &amp; IaC</h4>
-      <p align="center">Provision repeatable infrastructure through reusable Terraform modules, version control, and reviewed changes.</p>
-      <p align="center"><a href="https://clouddrove.com/terraform-iac">Explore Terraform &amp; IaC</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-cost.png" height="160" alt="Cost Optimization" />
-      </p>
-      <h4 align="center">Cost Optimization</h4>
-      <p align="center">Identify waste, rightsize resources, and align capacity with demand, including GPU scheduling and autoscaling for AI workloads.</p>
-      <p align="center"><a href="https://clouddrove.com/cost-optimization">Explore Cost Optimization</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/discover-planning.png" height="160" alt="Infrastructure Audit" />
-      </p>
-      <h4 align="center">Infrastructure Audit</h4>
-      <p align="center">Review architecture, cost, security, and reliability to establish a prioritized improvement plan.</p>
-      <p align="center"><a href="https://clouddrove.com/infrastructure-audit">Explore Infrastructure Audit</a></p>
-    </td>
-  </tr>
-</table>
-
-AI infrastructure capabilities include GPU sizing and pricing choices for training and inference, alongside cost and utilization reviews.
-
-### Platform Engineering
-
-Make infrastructure and application delivery consistent and repeatable.
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/ci-cd-gitops.png" height="160" alt="CI/CD &amp; GitOps" />
-      </p>
-      <h4 align="center">CI/CD &amp; GitOps</h4>
-      <p align="center">Build delivery pipelines with automated checks, code review, and version-controlled deployment workflows.</p>
-      <p align="center"><a href="https://clouddrove.com/cicd-gitops">Explore CI/CD &amp; GitOps</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/k8s.png" height="160" alt="Kubernetes" />
-      </p>
-      <h4 align="center">Kubernetes</h4>
-      <p align="center">Design and operate Kubernetes platforms with scaling, scheduling, and recovery for application and AI workloads.</p>
-      <p align="center"><a href="https://clouddrove.com/kubernetes">Explore Kubernetes</a></p>
-    </td>
-  </tr>
-</table>
-
-AI/ML platform capabilities include reproducible infrastructure and delivery workflows for model pipelines and GPU workloads.
-
-### Reliability & Operations
-
-Keep production observable, resilient, and supported around the clock.
+CloudDrove covers the platform lifecycle with six focused service areas. AI supports delivery across these areas, with engineers accountable for the results.
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-disaster.png" height="160" alt="Disaster Recovery" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-migration.png" height="160" alt="Cloud &amp; Infrastructure" />
       </p>
-      <h4 align="center">Disaster Recovery</h4>
-      <p align="center">Plan backups, availability, and failover around your recovery needs across cloud and hybrid environments.</p>
-      <p align="center"><a href="https://clouddrove.com/disaster-recovery">Explore Disaster Recovery</a></p>
+      <h4 align="center">Cloud &amp; Infrastructure</h4>
+      <p align="center"><b>Cloud Migration · Terraform &amp; IaC · Cost Optimization · Infrastructure Audit</b></p>
+      <p align="center">Secure migrations, reusable infrastructure, cost control, and architecture reviews.</p>
     </td>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-obs.png" height="160" alt="Observability" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/k8s.png" height="160" alt="Platform Engineering" />
       </p>
-      <h4 align="center">Observability</h4>
-      <p align="center">Bring metrics, logs, and traces together to understand platform health and investigate incidents.</p>
-      <p align="center"><a href="https://clouddrove.com/observability">Explore Observability</a></p>
+      <h4 align="center">Platform Engineering</h4>
+      <p align="center"><b>CI/CD &amp; GitOps · Kubernetes</b></p>
+      <p align="center">Repeatable delivery workflows and scalable Kubernetes platforms.</p>
     </td>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-ops.png" height="160" alt="24×7 Managed Support" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-obs.png" height="160" alt="Reliability &amp; Operations" />
       </p>
-      <h4 align="center">24×7 Managed Support</h4>
-      <p align="center">Support day-to-day production operations, including incident response, maintenance, scaling, and reliability improvements.</p>
-      <p align="center"><a href="https://clouddrove.com/managed-support">Explore 24×7 Managed Support</a></p>
-    </td>
-  </tr>
-</table>
-
-AI-assisted operations support alert triage, cluster health analysis, and pipeline investigation, with engineers reviewing findings and approving production changes.
-
-### Security & Compliance
-
-Integrate security controls and readiness reviews into your platform and delivery processes.
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="160" alt="Zero-Trust &amp; Identity" />
-      </p>
-      <h4 align="center">Zero-Trust &amp; Identity</h4>
-      <p align="center">Strengthen identity and access controls through least privilege, secrets management, and zero-trust principles.</p>
-      <p align="center"><a href="https://clouddrove.com/zero-trust">Explore Zero-Trust &amp; Identity</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/devops-auto.png" height="160" alt="DevSecOps" />
-      </p>
-      <h4 align="center">DevSecOps</h4>
-      <p align="center">Embed security checks and policy as code into infrastructure changes and application delivery pipelines.</p>
-      <p align="center"><a href="https://clouddrove.com/devsecops">Explore DevSecOps</a></p>
+      <h4 align="center">Reliability &amp; Operations</h4>
+      <p align="center"><b>Observability · 24×7 Managed Support · Disaster Recovery</b></p>
+      <p align="center">Production visibility, support, resilience, and recovery planning.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="160" alt="Security Audit" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="160" alt="Security &amp; Compliance" />
       </p>
-      <h4 align="center">Security Audit</h4>
-      <p align="center">Review infrastructure configurations and access controls to identify security gaps and prioritize remediation.</p>
-      <p align="center"><a href="https://clouddrove.com/security-audit">Explore Security Audit</a></p>
+      <h4 align="center">Security &amp; Compliance</h4>
+      <p align="center"><b>Zero-Trust &amp; Identity · DevSecOps · Security Audit · Compliance Audit</b></p>
+      <p align="center">Security controls, delivery checks, and readiness reviews.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/discover-planning.png" height="160" alt="Compliance Audit" />
-      </p>
-      <h4 align="center">Compliance Audit</h4>
-      <p align="center">Review technical controls and evidence against applicable compliance requirements to identify readiness gaps.</p>
-      <p align="center"><a href="https://clouddrove.com/compliance-audit">Explore Compliance Audit</a></p>
-    </td>
-  </tr>
-</table>
-
-AI-assisted configuration reviews surface potential risks for engineers to investigate and validate.
-
-### AI Infrastructure & Operations
-
-Build infrastructure for AI workloads and support cloud operations with engineer-reviewed AI workflows.
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="assets/services/gpu-infrastructure.png" height="160" alt="GPU Infrastructure" />
+        <img src="assets/services/gpu-infrastructure.png" height="160" alt="AI Infrastructure" />
       </p>
       <h4 align="center">AI Infrastructure</h4>
-      <p align="center">Build GPU infrastructure for training and inference, with workload-aware sizing, scheduling, and autoscaling.</p>
-      <p align="center"><a href="https://clouddrove.com/ai-infrastructure">Explore AI infrastructure capabilities</a></p>
+      <p align="center"><b>GPU Infrastructure · AI/ML Infrastructure</b></p>
+      <p align="center">Workload-aware infrastructure for model training and inference.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <p align="center">
-        <img src="assets/services/ai-assisted-devops.png" height="160" alt="AI-Assisted DevOps" />
+        <img src="assets/services/ai-assisted-devops.png" height="160" alt="AI-Assisted Operations" />
       </p>
       <h4 align="center">AI-Assisted Operations</h4>
-      <p align="center">Support infrastructure reviews, incident triage, and pipeline diagnosis with AI findings reviewed by engineers.</p>
-      <p align="center"><a href="https://clouddrove.com/intelligence">See how AI supports operations</a></p>
+      <p align="center"><b>AI-assisted reviews · Incident triage · Pipeline diagnosis · Cost analysis</b></p>
+      <p align="center">AI-supported operations with engineer-reviewed findings and approved production changes.</p>
     </td>
   </tr>
 </table>
+
+[Explore AI infrastructure capabilities](https://clouddrove.com/ai-infrastructure) · [See how AI supports operations](https://clouddrove.com/intelligence)
 
 ---
 
@@ -238,7 +118,7 @@ We build scalable and secure solutions on the world's leading cloud platforms.
 <table>
   <tr>
     <td align="center" width="180">
-      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="AWS"/><br><b>AWS</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="AWS"/><br><b>AWS</b>
     </td>
     <td align="center" width="180">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="Azure"/><br><b>Microsoft Azure</b>
@@ -291,10 +171,10 @@ We select tools around your workloads, existing environment, and operational nee
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins"/><br><b>Jenkins</b>
     </td>
     <td align="center" width="180">
-      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pulumi/pulumi-original.svg" height="60" alt="Pulumi"/><br><b>Pulumi</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/pulumi/pulumi-original.svg" height="60" alt="Pulumi"/><br><b>Pulumi</b>
     </td>
     <td align="center" width="180">
-      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/elasticsearch/elasticsearch-original.svg" height="60" alt="Elastic/ELK"/><br><b>Elastic/ELK</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/elasticsearch/elasticsearch-original.svg" height="60" alt="Elastic/ELK"/><br><b>Elastic/ELK</b>
     </td>
   </tr>
 </table>
