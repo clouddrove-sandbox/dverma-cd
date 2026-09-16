@@ -32,7 +32,6 @@ We build and maintain reusable infrastructure modules and DevOps tools, includin
 | **Smurf** | [Explore Smurf](https://smurf.clouddrove.com/) |
 
 **Using our modules in production?** We can help you build and operate the platforms behind them.
-[**Request a free cloud infrastructure assessment**](https://clouddrove.com/contact) · [Contact our team](mailto:business@clouddrove.com)
 
 ---
 
@@ -101,115 +100,16 @@ CloudDrove covers the platform lifecycle with six focused service areas. AI supp
 
 ## 🧰 Free Tools & Assessments
 
-| Resource | What you can explore |
-|---|---|
-| **[Free K8s Waste Calculator](https://clouddrove.com/kubernetes-waste-calculator)** | Estimate potential Kubernetes waste from your spending and operating practices. |
-| **[Free SOC 2 Quiz](https://clouddrove.com/soc2-readiness-quiz)** | Check infrastructure readiness across access, monitoring, change management, incident response, and compliance. |
-| **[Cloud Infrastructure Assessment](https://clouddrove.com/contact)** | Request an engineer review of your architecture, cost, security, and reliability to prioritize improvements. |
-
----
-
-## 🌍 Where We Build
-
-We build scalable and secure solutions on the world's leading cloud platforms.
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="AWS"/><br><b>AWS</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="Azure"/><br><b>Microsoft Azure</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="Google Cloud"/><br><b>Google Cloud</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="DigitalOcean"/><br><b>DigitalOcean</b>
-    </td>
-  </tr>
-</table>
-
-</div>
+[Free K8s Waste Calculator](https://clouddrove.com/kubernetes-waste-calculator) · [Free SOC 2 Quiz](https://clouddrove.com/soc2-readiness-quiz) · [Cloud Infrastructure Assessment](https://clouddrove.com/contact)
 
 ---
 
 ## 🛠️ What We Use
 
-We select tools around your workloads, existing environment, and operational needs. Our delivery workflows also include GitHub Actions, Azure DevOps, and GitLab CI/CD.
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes"/><br><b>Kubernetes</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker"/><br><b>Docker</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="Terraform"/><br><b>Terraform</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="Ansible"/><br><b>Ansible</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="60" alt="Prometheus"/><br><b>Prometheus</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="Grafana"/><br><b>Grafana</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub"/><br><b>GitHub</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins"/><br><b>Jenkins</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/pulumi/pulumi-original.svg" height="60" alt="Pulumi"/><br><b>Pulumi</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/elasticsearch/elasticsearch-original.svg" height="60" alt="Elastic/ELK"/><br><b>Elastic/ELK</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### AI-Assisted Engineering
-
-We use Claude, OpenAI Codex, and Cursor to support engineering workflows, with our engineers reviewing generated code and proposed changes.
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <a href="https://claude.ai/">
-        <img src="assets/logos/claude.svg" height="60" alt="Claude logo"/><br><b>Claude</b>
-      </a>
-    </td>
-    <td align="center" width="180">
-      <a href="https://openai.com/codex/">
-        <img src="assets/logos/codex.svg" height="60" alt="OpenAI Codex logo"/><br><b>OpenAI Codex</b>
-      </a>
-    </td>
-    <td align="center" width="180">
-      <a href="https://cursor.com/">
-        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="60" alt="Cursor logo"/><br><b>Cursor</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
+**Cloud:** AWS · Microsoft Azure · Google Cloud · DigitalOcean
+**Infrastructure:** Terraform · Pulumi · Ansible · Kubernetes · Docker
+**Delivery & observability:** GitHub Actions · Azure DevOps · GitLab CI/CD · Jenkins · Prometheus · Grafana · Elastic
+**AI-assisted engineering:** Claude · OpenAI Codex · Cursor
 
 ## 🤖 How AI and Our Engineers Work Together
 
@@ -229,123 +129,23 @@ AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-b
 
 ## ⚙️ How We Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/discover-planning.png" height="80" alt="Discovery &amp; Audit" />
-      </p>
-      <h4 align="center">Discovery &amp; Audit</h4>
-      <p align="center">Assess workloads, architecture, cost, security, reliability, and AI/GPU needs.</p>
-      <p align="center">Use AI to summarize findings and risks for engineer review.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/iac.png" height="80" alt="Infrastructure &amp; Platform Delivery" />
-      </p>
-      <h4 align="center">Infrastructure &amp; Platform Delivery</h4>
-      <p align="center">Build Terraform, Kubernetes, CI/CD, scheduling, and autoscaling workflows.</p>
-      <p align="center">Use AI to draft code and investigate pipeline failures for engineer review.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="80" alt="Security &amp; Compliance Validation" />
-      </p>
-      <h4 align="center">Security &amp; Compliance Validation</h4>
-      <p align="center">Review access, secrets, security checks, and compliance evidence.</p>
-      <p align="center">Use AI to flag configuration risks for engineers to investigate.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/continues-monitoring.png" height="80" alt="Ongoing Support &amp; Optimization" />
-      </p>
-      <h4 align="center">Ongoing Support &amp; Optimization</h4>
-      <p align="center">Monitor health, recovery readiness, cloud spend, and GPU utilization with 24×7 support.</p>
-      <p align="center">Use AI to triage alerts and surface optimization opportunities for review.</p>
-    </td>
-  </tr>
-</table>
-
----
+1. **Assess** — Review architecture, cost, security, reliability, and AI/GPU needs. Use AI to summarize findings for engineer review.
+2. **Build** — Deliver Terraform, Kubernetes, CI/CD, security controls, and recovery workflows. Use AI to draft code and investigate pipeline failures for engineer review.
+3. **Operate & Improve** — Monitor health, incidents, recovery, cloud spend, and GPU utilization. Use AI to triage signals and surface improvements for engineer approval.
 
 ## ✨ What Sets Us Apart
 
-<div align="center">
-
-<table width="90%">
-  <!-- Card 1 -->
-  <tr>
-    <td align="center" width="70">🤖</td>
-    <td align="left">
-      <b>Intelligent Automation &amp; Accelerated Delivery</b><br/>
-      CI/CD, IaC, and reusable patterns reduce friction and help teams ship reliable infrastructure faster.
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <!-- Card 2 -->
-  <tr>
-    <td align="center" width="70">💼</td>
-    <td align="left">
-      <b>Financial Clarity &amp; Savings</b><br/>
-      Proactive right-sizing, reservation management, and clear cost allocation/tagging to maximize your cloud ROI.
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <!-- Card 3 -->
-  <tr>
-    <td align="center" width="70">🛡️</td>
-    <td align="left">
-      <b>Security by Design</b><br/>
-      Enforcing zero-trust guardrails, secrets management, and policy-as-code from day one.
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <!-- Card 4 -->
-  <tr>
-    <td align="center" width="70">🌦️</td>
-    <td align="left">
-      <b>Multi-Cloud Consistency</b><br/>
-      Applying reusable patterns and consistent operating practices across AWS, Azure, Google Cloud, and DigitalOcean while respecting each platform’s capabilities.
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <!-- Card 5 -->
-  <tr>
-    <td align="center" width="70">🧠</td>
-    <td align="left">
-      <b>AI-Assisted Operations &amp; Human Accountability</b><br/>
-      AI reviews code, analyzes platform signals, triages incidents, and surfaces cost opportunities; a named engineer validates findings and approves production changes.
-    </td>
-  </tr>
-</table>
-
-</div>
+- **Intelligent Automation & Accelerated Delivery** — CI/CD, IaC, and reusable patterns help teams ship reliable infrastructure faster.
+- **Secure, Efficient Multi-Cloud Operations** — Security by design, cost clarity, and consistent practices across AWS, Azure, Google Cloud, and DigitalOcean.
+- **AI-Assisted Operations & Human Accountability** — AI reviews code, analyzes platform signals, triages incidents, and surfaces cost opportunities; a named engineer validates findings and approves production changes.
 
 ---
 
-## 🏗️ Join Our Slack Community
+## 🌐 Explore and Connect
 
-Connect with other practitioners in our open-source DevOps community to share knowledge, discuss cloud challenges, and learn together.
-
-- Exchange practical ideas with the DevOps community.
-- Learn about cloud infrastructure, automation, and emerging tools.
-- Share experiences and grow your skills alongside other engineers.
-
-[**Join our Slack community**](https://www.launchpass.com/devops-talks)
-
----
-
-## 📚 Explore Our Blog
-
-[Read the CloudDrove blog](https://blog.clouddrove.com/) for practical cloud and DevOps insights.
-
----
+- [Join our DevOps Slack community](https://www.launchpass.com/devops-talks) to share knowledge and learn with other practitioners.
+- [Read the CloudDrove blog](https://blog.clouddrove.com/) for practical cloud and DevOps insights.
+- [Explore our repositories](https://github.com/orgs/clouddrove/repositories) and contribute to our open-source tools.
 
 ## 🤝 Let’s Improve Your Cloud Platform
 
