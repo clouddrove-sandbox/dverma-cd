@@ -279,8 +279,8 @@ AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-b
   <tr>
     <td align="center" width="70">🤖</td>
     <td align="left">
-      <b>Intelligent Automation</b><br/>
-      CI/CD, IaC, and reusable patterns for consistent, reliable infrastructure deployment at scale.
+      <b>Intelligent Automation &amp; Accelerated Delivery</b><br/>
+      CI/CD, IaC, and reusable patterns reduce friction and help teams ship reliable infrastructure faster.
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -317,40 +317,10 @@ AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-b
 
   <!-- Card 5 -->
   <tr>
-    <td align="center" width="70">🚴‍♂️</td>
-    <td align="left">
-      <b>Accelerated Delivery</b><br/>
-      Reducing friction and increasing velocity to help your teams ship code faster and grow confidently.
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <!-- Card 6 -->
-  <tr>
     <td align="center" width="70">🧠</td>
     <td align="left">
-      <b>AI-Assisted Engineering</b><br/>
-      AI-assisted Terraform reviews and pipeline diagnosis, backed by engineers who validate the code and proposed fixes.
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <!-- Card 7 -->
-  <tr>
-    <td align="center" width="70">🔎</td>
-    <td align="left">
-      <b>Continuous AI-Assisted Analysis</b><br/>
-      Around-the-clock analysis of cluster health, alerts, and cloud costs to surface issues and improvement opportunities for engineer review.
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-
-  <!-- Card 8 -->
-  <tr>
-    <td align="center" width="70">✍️</td>
-    <td align="left">
-      <b>Human Accountability</b><br/>
-      A named engineer reviews AI findings and approves production changes, keeping operational decisions accountable and under human control.
+      <b>AI-Assisted Operations &amp; Human Accountability</b><br/>
+      AI reviews code, analyzes platform signals, triages incidents, and surfaces cost opportunities; a named engineer validates findings and approves production changes.
     </td>
   </tr>
 </table>
