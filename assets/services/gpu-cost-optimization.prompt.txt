@@ -1,0 +1,4 @@
+Generation method: built-in image_gen tool.
+Style reference: assets/services/ai-assisted-devops.png
+
+Create one square PNG service icon for CloudDrove GitHub README. The reference is style reference only. Match its thick rounded neutral gray outlines, subtle metallic bevel/shadow, centered cloud infrastructure symbol, and generous padding. Subject: a GPU processor chip beside a small coin stack and a clean downward cost arrow within a cloud outline. Beneath symbol include exactly "GPU Cost Optimization" on two readable centered lines in bold sans-serif gray text. Transparent background with genuine alpha, no black backdrop or checkerboard. Neutral medium-light gray outlines legible against dark and light GitHub themes. Simple professional composition readable at 200px height. No other text or watermark.
