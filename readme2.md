@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" alt="CloudDrove Banner" src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/clouddrove-github-cover.png" />
+  <img width="1000" alt="CloudDrove colorful cloud and AI platform" src="assets/clouddrove-cover.png" />
 </p>
 
 <h1 align="center">👋 About CloudDrove</h1>
@@ -14,9 +14,7 @@
 
 ## 🌟 About CloudDrove
 
-CloudDrove helps teams design, build, and run secure, scalable cloud infrastructure. We combine **DevOps engineering, reusable open-source tools, and AI-assisted workflows** to improve delivery, reliability, and cost control.
-
-We work with growing SaaS, healthcare, and fintech teams, from cloud migration and platform engineering to ongoing production operations. Our engineers work alongside your team to make infrastructure easier to manage and evolve.
+CloudDrove is an AI-operated cloud and DevOps partner based in Toronto, Canada. We design, build and run production platforms for growth-stage SaaS, healthcare and fintech teams (Kubernetes, CI/CD, Terraform, observability and security) and operate them 24x7 with purpose-built AI agents supervised by senior engineers. Every agent output is human-reviewed; nothing changes in production without a named engineer's sign-off. We open-source what we build: 200+ Terraform modules and tools used by thousands of teams. Working across US and European time zones.
 
 ---
 
