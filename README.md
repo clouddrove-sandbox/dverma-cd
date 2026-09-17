@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" alt="CloudDrove colorful cloud and AI platform" src="assets/clouddrove-cover.png" />
+  <img width="1000" alt="CloudDrove colorful cloud and AI platform" src="assets/clouddrove-cover-original.png" />
 </p>
 
 <h1 align="center">👋 About CloudDrove</h1>
