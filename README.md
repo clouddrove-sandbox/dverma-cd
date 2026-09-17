@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://clouddrove.com/contact"><b>Request a free cloud infrastructure assessment</b></a> ·
   <a href="https://github.com/orgs/clouddrove/repositories"><b>Explore our projects</b></a> ·
-  <a href="mailto:business@clouddrove.com"><b>Contact us</b></a>
+  <a href="mailto:hello@clouddrove.com"><b>Contact us</b></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ CloudDrove covers the platform lifecycle with six focused service areas. AI supp
   <tr>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-migration.png" height="160" alt="Cloud &amp; Infrastructure" />
+        <img src="assets/services/cloud-infrastructure.png" height="160" alt="Cloud &amp; Infrastructure" />
       </p>
       <h4 align="center">Cloud &amp; Infrastructure</h4>
       <p align="center"><b>Cloud Migration · Terraform &amp; IaC · Cost Optimization · Infrastructure Audit</b></p>
@@ -51,7 +51,7 @@ CloudDrove covers the platform lifecycle with six focused service areas. AI supp
     </td>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/k8s.png" height="160" alt="Platform Engineering" />
+        <img src="assets/services/platform-engineering.png" height="160" alt="Platform Engineering" />
       </p>
       <h4 align="center">Platform Engineering</h4>
       <p align="center"><b>CI/CD &amp; GitOps · Kubernetes</b></p>
@@ -59,7 +59,7 @@ CloudDrove covers the platform lifecycle with six focused service areas. AI supp
     </td>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-obs.png" height="160" alt="Reliability &amp; Operations" />
+        <img src="assets/services/reliability-operations.png" height="160" alt="Reliability &amp; Operations" />
       </p>
       <h4 align="center">Reliability &amp; Operations</h4>
       <p align="center"><b>Observability · 24×7 Managed Support · Disaster Recovery</b></p>
@@ -69,7 +69,7 @@ CloudDrove covers the platform lifecycle with six focused service areas. AI supp
   <tr>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="160" alt="Security &amp; Compliance" />
+        <img src="assets/services/security-compliance.png" height="160" alt="Security &amp; Compliance" />
       </p>
       <h4 align="center">Security &amp; Compliance</h4>
       <p align="center"><b>Zero-Trust &amp; Identity · DevSecOps · Security Audit · Compliance Audit</b></p>
@@ -77,7 +77,7 @@ CloudDrove covers the platform lifecycle with six focused service areas. AI supp
     </td>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="assets/services/gpu-infrastructure.png" height="160" alt="AI Infrastructure" />
+        <img src="assets/services/ai-infrastructure.png" height="160" alt="AI Infrastructure" />
       </p>
       <h4 align="center">AI Infrastructure</h4>
       <p align="center"><b>GPU Infrastructure · AI/ML Infrastructure</b></p>
@@ -85,7 +85,7 @@ CloudDrove covers the platform lifecycle with six focused service areas. AI supp
     </td>
     <td width="33%" valign="top">
       <p align="center">
-        <img src="assets/services/ai-assisted-devops.png" height="160" alt="AI-Assisted Operations" />
+        <img src="assets/services/ai-assisted-operations.png" height="160" alt="AI-Assisted Operations" />
       </p>
       <h4 align="center">AI-Assisted Operations</h4>
       <p align="center"><b>AI-assisted reviews · Incident triage · Pipeline diagnosis · Cost analysis</b></p>
@@ -145,6 +145,7 @@ AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-b
 
 - [Join our DevOps Slack community](https://www.launchpass.com/devops-talks) to share knowledge and learn with other practitioners.
 - [Read the CloudDrove blog](https://blog.clouddrove.com/) for practical cloud and DevOps insights.
+- [Read our website blog](https://clouddrove.com/blog) for company updates and cloud engineering insights.
 - [Explore our repositories](https://github.com/orgs/clouddrove/repositories) and contribute to our open-source tools.
 
 ## 🤝 Let’s Improve Your Cloud Platform
@@ -161,6 +162,6 @@ Request a **free cloud infrastructure assessment**. Tell us about your environme
 
 | 🌐 Website | ✉️ Email |
 |----------|------------|
-| [clouddrove.com](https://clouddrove.com) | [business@clouddrove.com](mailto:business@clouddrove.com) |
+| [clouddrove.com](https://clouddrove.com) | [hello@clouddrove.com](mailto:hello@clouddrove.com) |
 
 </div>
