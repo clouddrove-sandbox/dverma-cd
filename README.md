@@ -35,70 +35,18 @@ We build and maintain reusable infrastructure modules and DevOps tools, includin
 
 ## 🚀 Our Services
 
-CloudDrove covers the platform lifecycle with six focused service areas. AI supports delivery across these areas, with engineers accountable for the results.
+Six focused service areas cover the platform lifecycle, with AI-assisted delivery and engineer accountability throughout.
 
 <table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center">
-        <img src="assets/services/cloud-infrastructure.png" height="160" alt="Cloud &amp; Infrastructure" />
-      </p>
-      <h4 align="center">Cloud &amp; Infrastructure</h4>
-      <p align="center"><b>Cloud Migration · Terraform &amp; IaC · Cost Optimization · Infrastructure Audit</b></p>
-      <p align="center">Secure migrations, reusable infrastructure, cost control, and architecture reviews.</p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <img src="assets/services/platform-engineering.png" height="160" alt="Platform Engineering" />
-      </p>
-      <h4 align="center">Platform Engineering</h4>
-      <p align="center"><b>CI/CD &amp; GitOps · Kubernetes</b></p>
-      <p align="center">Repeatable delivery workflows and scalable Kubernetes platforms.</p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <img src="assets/services/reliability-operations.png" height="160" alt="Reliability &amp; Operations" />
-      </p>
-      <h4 align="center">Reliability &amp; Operations</h4>
-      <p align="center"><b>Observability · 24×7 Managed Support · Disaster Recovery</b></p>
-      <p align="center">Production visibility, support, resilience, and recovery planning.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center">
-        <img src="assets/services/security-compliance.png" height="160" alt="Security &amp; Compliance" />
-      </p>
-      <h4 align="center">Security &amp; Compliance</h4>
-      <p align="center"><b>Zero-Trust &amp; Identity · DevSecOps · Security Audit · Compliance Audit</b></p>
-      <p align="center">Security controls, delivery checks, and readiness reviews.</p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <img src="assets/services/ai-infrastructure.png" height="160" alt="AI Infrastructure" />
-      </p>
-      <h4 align="center">AI Infrastructure</h4>
-      <p align="center"><b>GPU Infrastructure · AI/ML Infrastructure</b></p>
-      <p align="center">Workload-aware infrastructure for model training and inference.</p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <img src="assets/services/ai-assisted-operations.png" height="160" alt="AI-Assisted Operations" />
-      </p>
-      <h4 align="center">AI-Assisted Operations</h4>
-      <p align="center"><b>AI-assisted reviews · Incident triage · Pipeline diagnosis · Cost analysis</b></p>
-      <p align="center">AI-supported operations with engineer-reviewed findings and approved production changes.</p>
-    </td>
-  </tr>
+  <tr><td width="96" valign="middle"><img src="assets/services/cloud-infrastructure.png" width="76" alt="Cloud &amp; Infrastructure" /></td><td valign="middle"><b>Cloud &amp; Infrastructure</b><br><sub>Cloud migration, Terraform &amp; IaC, cost optimization, and infrastructure audits.</sub></td></tr>
+  <tr><td valign="middle"><img src="assets/services/platform-engineering.png" width="76" alt="Platform Engineering" /></td><td valign="middle"><b>Platform Engineering</b><br><sub>CI/CD, GitOps, Kubernetes, and repeatable developer platforms.</sub></td></tr>
+  <tr><td valign="middle"><img src="assets/services/reliability-operations.png" width="76" alt="Reliability &amp; Operations" /></td><td valign="middle"><b>Reliability &amp; Operations</b><br><sub>Observability, disaster recovery, and 24×7 managed support.</sub></td></tr>
+  <tr><td valign="middle"><img src="assets/services/security-compliance.png" width="76" alt="Security &amp; Compliance" /></td><td valign="middle"><b>Security &amp; Compliance</b><br><sub>Zero-trust identity, DevSecOps, security audits, and compliance audits.</sub></td></tr>
+  <tr><td valign="middle"><img src="assets/services/ai-infrastructure.png" width="76" alt="AI Infrastructure" /></td><td valign="middle"><b>AI Infrastructure</b><br><sub>GPU infrastructure and AI/ML platforms for training and inference.</sub></td></tr>
+  <tr><td valign="middle"><img src="assets/services/ai-assisted-operations.png" width="76" alt="AI-Assisted Operations" /></td><td valign="middle"><b>AI-Assisted Operations</b><br><sub>Engineer-reviewed incident triage, pipeline diagnosis, and cost analysis.</sub></td></tr>
 </table>
 
 [Explore AI infrastructure capabilities](https://clouddrove.com/ai-infrastructure) · [See how AI supports operations](https://clouddrove.com/intelligence)
-
----
-
-## 🧰 Free Tools & Assessments
-
-[Free K8s Waste Calculator](https://clouddrove.com/kubernetes-waste-calculator) · [Free SOC 2 Quiz](https://clouddrove.com/soc2-readiness-quiz) · [Cloud Infrastructure Assessment](https://clouddrove.com/contact)
 
 ---
 
@@ -124,12 +72,6 @@ AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-b
 **Human accountability at every stage.** AI-generated code and findings require engineer review. Production changes require human approval; operational agents do not make autonomous production changes.
 
 ---
-
-## ⚙️ How We Work
-
-1. **Assess** — Review architecture, cost, security, reliability, and AI/GPU needs. Use AI to summarize findings for engineer review.
-2. **Build** — Deliver Terraform, Kubernetes, CI/CD, security controls, and recovery workflows. Use AI to draft code and investigate pipeline failures for engineer review.
-3. **Operate & Improve** — Monitor health, incidents, recovery, cloud spend, and GPU utilization. Use AI to triage signals and surface improvements for engineer approval.
 
 ## ✨ What Sets Us Apart
 
