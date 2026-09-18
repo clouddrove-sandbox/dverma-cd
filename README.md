@@ -35,15 +35,19 @@ We build and maintain reusable infrastructure modules and DevOps tools, includin
 
 ## 🚀 Our Services
 
-Six focused service areas cover the platform lifecycle, with AI-assisted delivery and engineer accountability throughout.
+Five focused service areas cover the platform lifecycle, with AI-assisted delivery and engineer accountability throughout.
 
 <table width="100%">
-  <tr><td width="96" valign="middle"><img src="assets/services/cloud-infrastructure.png" width="76" alt="Cloud &amp; Infrastructure" /></td><td valign="middle"><b>Cloud &amp; Infrastructure</b><br><sub>Cloud migration, Terraform &amp; IaC, cost optimization, and infrastructure audits.</sub></td></tr>
-  <tr><td valign="middle"><img src="assets/services/platform-engineering.png" width="76" alt="Platform Engineering" /></td><td valign="middle"><b>Platform Engineering</b><br><sub>CI/CD, GitOps, Kubernetes, and repeatable developer platforms.</sub></td></tr>
-  <tr><td valign="middle"><img src="assets/services/reliability-operations.png" width="76" alt="Reliability &amp; Operations" /></td><td valign="middle"><b>Reliability &amp; Operations</b><br><sub>Observability, disaster recovery, and 24×7 managed support.</sub></td></tr>
-  <tr><td valign="middle"><img src="assets/services/security-compliance.png" width="76" alt="Security &amp; Compliance" /></td><td valign="middle"><b>Security &amp; Compliance</b><br><sub>Zero-trust identity, DevSecOps, security audits, and compliance audits.</sub></td></tr>
-  <tr><td valign="middle"><img src="assets/services/ai-infrastructure.png" width="76" alt="AI Infrastructure" /></td><td valign="middle"><b>AI Infrastructure</b><br><sub>GPU infrastructure and AI/ML platforms for training and inference.</sub></td></tr>
-  <tr><td valign="middle"><img src="assets/services/ai-assisted-operations.png" width="76" alt="AI-Assisted Operations" /></td><td valign="middle"><b>AI-Assisted Operations</b><br><sub>Engineer-reviewed incident triage, pipeline diagnosis, and cost analysis.</sub></td></tr>
+  <tr>
+    <td width="33%" valign="top" align="center"><img src="assets/services/cloud-infrastructure.png" width="76" alt="Cloud &amp; Infrastructure" /><br><b>Cloud &amp; Infrastructure</b><br><sub>Migration, Terraform &amp; IaC, cost optimization, and audits.</sub></td>
+    <td width="33%" valign="top" align="center"><img src="assets/services/platform-engineering.png" width="76" alt="Platform Engineering" /><br><b>Platform Engineering</b><br><sub>CI/CD, GitOps, Kubernetes, and developer platforms.</sub></td>
+    <td width="33%" valign="top" align="center"><img src="assets/services/reliability-operations.png" width="76" alt="Reliability &amp; Operations" /><br><b>Reliability &amp; Operations</b><br><sub>Observability, disaster recovery, and 24×7 support.</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center"><img src="assets/services/security-compliance.png" width="76" alt="Security &amp; Compliance" /><br><b>Security &amp; Compliance</b><br><sub>Zero-trust, DevSecOps, security, and compliance audits.</sub></td>
+    <td width="33%" valign="top" align="center"><img src="assets/services/ai-infrastructure.png" width="76" alt="AI Infrastructure &amp; Operations" /><br><b>AI Infrastructure &amp; Operations</b><br><sub>GPU platforms, AI/ML infrastructure, incident triage, and cost analysis.</sub></td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 [Explore AI infrastructure capabilities](https://clouddrove.com/ai-infrastructure) · [See how AI supports operations](https://clouddrove.com/intelligence)
