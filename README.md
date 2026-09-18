@@ -59,19 +59,13 @@ Six focused service areas cover the platform lifecycle, with AI-assisted deliver
 
 ## 🤖 How AI and Our Engineers Work Together
 
-AI-assisted engineering combines Claude, OpenAI Codex, and Cursor with purpose-built operational agents across the platform lifecycle. Coding tools support code preparation and review; operational agents analyze infrastructure signals and surface findings for engineers.
+Claude, OpenAI Codex, Cursor, and purpose-built agents support the platform lifecycle:
 
-| Stage | AI in the workflow | Engineer responsibility |
-|---|---|---|
-| **Assess & Plan** | Analyze infrastructure configurations and summarize potential reliability, security, and cost issues. | Validate findings, add business context, and agree on priorities. |
-| **Build & Review** | Draft Terraform code, suggest pipeline updates, and flag potential configuration issues. | Review code, test changes, and confirm alignment with platform requirements. |
-| **Monitor & Investigate** | Analyze alerts, cluster health, and failed pipelines to suggest likely causes and next steps. | Investigate the evidence, confirm the cause, and select the appropriate response. |
-| **Approve & Deliver** | Prepare proposed fixes and summarize changes for review. | Approve and execute production changes through the agreed delivery process. |
-| **Learn & Improve** | Summarize incident findings and identify recurring issues and cost optimization opportunities. | Verify recommendations and prioritize ongoing platform improvements. |
+- **Plan & Build:** Analyze infrastructure, draft Terraform, and review pipeline changes.
+- **Monitor & Investigate:** Analyze alerts, cluster health, incidents, and cloud costs.
+- **Approve & Improve:** Prepare fixes and summarize lessons for engineer review.
 
-**Human accountability at every stage.** AI-generated code and findings require engineer review. Production changes require human approval; operational agents do not make autonomous production changes.
-
----
+**Human accountability:** Engineers validate AI findings and approve every production change.
 
 ## ✨ What Sets Us Apart
 
